@@ -1,1 +1,1 @@
-# SQLPatikaDevOdevler
+# SQL Patika Dev Ödevlerim
