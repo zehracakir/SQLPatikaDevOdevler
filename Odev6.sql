@@ -10,7 +10,7 @@
 Select avg(rental_rate) from film;
 
 -- Cevap 2-)
-Select count(*) from film
+Select count(title) from film
 where title like 'C%';
 
 -- Cevap 3-)
